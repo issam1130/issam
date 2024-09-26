@@ -1,11 +1,8 @@
-#name
-Issam Dbiri
-#nationality
-Moroccan
-#friends
-not chinedu
-#dislikes
-chinedu
-
- [markdown guide](https://www.markdownguide.org)
-[github profile guide](https://www.markdownguide.org)
+- 🔭 I’m currently working on Learning and developing my professional career
+- 🌱 I’m currently learning the commands on github
+- 👯 I’m looking to collaborate on a small project to get us started
+- 🤔 I’m looking for help with JavaScript
+- 💬 Ask me about Star Wars
+- 📫 How to reach me: Slack
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Male Seahorses carry the baby during reproduction
